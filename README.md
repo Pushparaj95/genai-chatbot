@@ -4,6 +4,12 @@ A conversational web chatbot built using Django (frontend & backend), Flask (AI 
 
 ---
 
+## ChatBot UI
+
+![ChatBot ui](screenshots/chatbot_UI.jpg)
+
+---
+
 ## 📌 Features
 
 - 🔗 Frontend in **Django** with dynamic HTML templates
